@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Otniel Putra Zebua</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-<img align="right" alt="Coding" width="200" src="https://c.tenor.com/p0kz7NOqxTkAAAAM/kaito-typing.gif">
+<img align="right" alt="Coding" width="200" Padding: 10px,10px,10px,10px; src="https://c.tenor.com/p0kz7NOqxTkAAAAM/kaito-typing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niel9537&label=Profile%20views&color=0e75b6&style=flat" alt="niel9537" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niel9537" alt="niel9537" /></a> </p>
