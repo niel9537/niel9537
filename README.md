@@ -2,8 +2,12 @@
 <h3 align="center">A passionate fullstack developer</h3>
 <img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niel9537&label=Profile%20views&color=0e75b6&style=flat" alt="niel9537" /> </p>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<div class="row">
+  <div class="column"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></div>
+  <div class="column"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/></div>
+</div>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niel9537" alt="niel9537" /></a> </p>
 
 - 📫 How to reach me **niel.zebua8@gmail.com**
